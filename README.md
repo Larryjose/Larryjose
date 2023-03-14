@@ -1,5 +1,6 @@
 <div align="center">
             
+![Banner de LinkedIn Sencillo Tecnología](https://user-images.githubusercontent.com/105826102/225131932-087b18bb-1c1f-4b62-a7e3-66a413a317f4.gif)
 
 
 
