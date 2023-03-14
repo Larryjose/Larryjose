@@ -5,6 +5,13 @@
   🌍Buenos Aires, Argentina💻
 </h2>
 
+<p>Emprendedor con mucha curiosidad por el área tecnológica.
+
+¿Por qué deberían elegirme?
+Buena disposición a crear un ambiente laboral agradable en pro al trabajo en equipo, con diversas ganas de aprender y afrontar nuevos retos, orientación, integración y excelente trabajo en equipo, empatía, iniciativa, curiosidad y dedicación a lo que hago. Ownership (impulsar, implementar, proponer y cumplir expectativas)🎖 </p>
+
+- 🌐 And Contributed to the Website 🌐 [HenryGameOn](https://henry-pf-front.vercel.app/games)
+
 <p align="center">
     <h3 align="left">Contact me!  <a href=https://www.linkedin.com/in/larry-jos%C3%A9-guarenas-arraez-100a5a256/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Larry Guarenas" height="30" width="40" /></a> </h3>
     
