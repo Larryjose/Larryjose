@@ -5,7 +5,7 @@
   🌍Buenos Aires, Argentina💻
 </h2>
 
-<p>Emprendedor con mucha curiosidad por el área tecnológica.
+<p>Emprendedor con mucha curiosidad por el área tecnológica👀 .
 
 ¿Por qué deberían elegirme?
 Buena disposición a crear un ambiente laboral agradable en pro al trabajo en equipo, con diversas ganas de aprender y afrontar nuevos retos, orientación, integración y excelente trabajo en equipo, empatía, iniciativa, curiosidad y dedicación a lo que hago. Ownership (impulsar, implementar, proponer y cumplir expectativas)🎖 </p>
